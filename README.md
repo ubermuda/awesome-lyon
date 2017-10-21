@@ -29,3 +29,11 @@ I have not personally tested the things in this list, but I intend to.
 ## Bars
 
 * [L'Antiquaire](http://www.yelp.com/biz/l-antiquaire-lyon), best cocktails in town.
+* [HopStore](https://www.facebook.com/hopstorelyon), great selection of beers and nice burgers.
+* [Dikkenek](http://www.dikkenek-cafe.fr/), great selection, and you can bring your pizza from the pizzeria next door.
+* [Ninkasi](https://www.ninkasi.fr/), classical local brewery, multiple locations in Lyon and around.
+* [Flanigan's](https://flanigans.fr/en/), irish pub with food.
+* [Wallace Bar](http://www.wallacebarlyon.com/), scotish bar with food and a great quizz.
+* [StarFerry](http://www.star-ferry.com/beers/index.php), exterior only, great selection of beers and nice food.
+* [Volle Petrol](https://www.facebook.com/vollepetrol/), exterior only, great selection of beers.
+* [Bieristan](https://www.bieristan.fr/), greet selection of local beers.
