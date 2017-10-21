@@ -20,7 +20,10 @@ I have not personally tested the things in this list, but I intend to.
 
 ## Burgers
 
-* [King Marcel](http://www.kingmarcel.fr/), best burgers in town.
+* [King Marcel](http://www.kingmarcel.fr/), great french burgers, multiple locations.
+* [Queenstown](https://www.facebook.com/Queenstownlyon/), best burgers in town.
+* [Les burgers de papa](http://www.lesburgersdepapa.fr/), nice burgers.
+* [BIEH](http://www.bieh.fr/) nice selection of burgers and "american-style" food.
 
 ## Autre
 
