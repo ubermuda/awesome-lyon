@@ -25,6 +25,12 @@ I have not personally tested the things in this list, but I intend to.
 * [Les burgers de papa](http://www.lesburgersdepapa.fr/), nice burgers.
 * [BIEH](http://www.bieh.fr/) nice selection of burgers and "american-style" food.
 
+## Brunchs
+
+* [L'instant](http://linstant-patisserie.fr/), french breakfast and brunch.
+* [L'origo](http://www.resto-origo.fr/), buffet style brunch.
+* [Wallace Bar](http://www.wallacebarlyon.com/), british brunch.
+
 ## Autre
 
 * [Les Enfants Gâtés](https://duckduckgo.com/?q=les+enfants+gates+lyon&ia=places), best ice cream in town.
