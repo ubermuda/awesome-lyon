@@ -17,6 +17,7 @@ I have not personally tested the things in this list, but I intend to.
 * [Yomogi](https://duckduckgo.com/?q=yomogi+lyon&ia=places), noodle bar.
 * [Le bouchon des filles](http://www.lyonresto.com/restaurant-Lyon/restaurant-Le-Bouchon-des-Filles-Lyon/restaurant-Le-Bouchon-des-Filles-Lyon-5367.html), great traditionnal *bouchon lyonnais*.
 * [Salmon shop](https://duckduckgo.com/?q=salmon+shop+lyon&ia=places), nordic restaurant. Very good salmon tartare.
+* [L'ourson qui boit](https://www.yelp.com/biz/l-ourson-qui-boit-lyon?), fine restaurant with Japanese/French inspiration. New dishes every month.
 
 ## Burgers
 
@@ -24,6 +25,7 @@ I have not personally tested the things in this list, but I intend to.
 * [Queenstown](https://www.facebook.com/Queenstownlyon/), best burgers in town.
 * [Les burgers de papa](http://www.lesburgersdepapa.fr/), nice burgers.
 * [BIEH](http://www.bieh.fr/) nice selection of burgers and "american-style" food.
+* [Pinch Burger](https://www.pinch-burger.fr) nice and affordable burgers.
 
 ## Brunchs
 
