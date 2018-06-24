@@ -1,4 +1,4 @@
-# Awesome Lyon
+# Awesome Lyon [![Mentioned in Awesome French](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/jusdepatate/awesome-french)
 
 A curated list of awesome things to do, eat and drink in Lyon, France.
 
